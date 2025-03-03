@@ -1,0 +1,23 @@
+2025-03-03 14:42:54 - User provided VMDK folder: E:\VMWare\Guests\Ubuntu 64-bit
+2025-03-03 14:42:54 - Found 3 .lck files/folders in E:\VMWare\Guests\Ubuntu 64-bit
+2025-03-03 14:42:54 - Moved: E:\VMWare\Guests\Ubuntu 64-bit\564def8f-dcf9-8e62-849b-9cdd1f995cd6.vmem.lck -> E:\VMWare\Guests\Ubuntu 64-bit\..\Moved-564def8f-dcf9-8e62-849b-9cdd1f995cd6.vmem.lck
+2025-03-03 14:42:54 - Moved: E:\VMWare\Guests\Ubuntu 64-bit\Ubuntu 64-bit-4fa2b05e.vmem.lck -> E:\VMWare\Guests\Ubuntu 64-bit\..\Moved-Ubuntu 64-bit-4fa2b05e.vmem.lck
+2025-03-03 14:42:54 - Moved: E:\VMWare\Guests\Ubuntu 64-bit\Ubuntu 64-bit.vmdk.lck -> E:\VMWare\Guests\Ubuntu 64-bit\..\Moved-Ubuntu 64-bit.vmdk.lck
+2025-03-03 14:42:54 - Successfully stopped all VMware processes.
+2025-03-03 14:48:08 - User provided VMDK folder: E:\VMWare\Guests\Ubuntu 64-bit
+2025-03-03 14:48:08 - Created lock backup folder: E:\VMWare\Guests\Ubuntu 64-bit\Old_Locks
+2025-03-03 14:48:08 - Found 3 .lck files/folders in E:\VMWare\Guests\Ubuntu 64-bit
+2025-03-03 14:48:08 - Moved: E:\VMWare\Guests\Ubuntu 64-bit\Moved-564def8f-dcf9-8e62-849b-9cdd1f995cd6.vmem.lck -> E:\VMWare\Guests\Ubuntu 64-bit\Old_Locks\Moved-564def8f-dcf9-8e62-849b-9cdd1f995cd6.vmem.lck
+2025-03-03 14:48:08 - Moved: E:\VMWare\Guests\Ubuntu 64-bit\Moved-Ubuntu 64-bit-4fa2b05e.vmem.lck -> E:\VMWare\Guests\Ubuntu 64-bit\Old_Locks\Moved-Ubuntu 64-bit-4fa2b05e.vmem.lck
+2025-03-03 14:48:08 - Moved: E:\VMWare\Guests\Ubuntu 64-bit\Moved-Ubuntu 64-bit.vmdk.lck -> E:\VMWare\Guests\Ubuntu 64-bit\Old_Locks\Moved-Ubuntu 64-bit.vmdk.lck
+2025-03-03 14:48:08 - Successfully stopped all VMware processes.
+2025-03-03 14:48:09 - Skipping disabled service: VMware NAT Service
+2025-03-03 14:48:09 - Restarted service: VmwareAutostartService
+2025-03-03 14:51:09 - User provided VMDK folder: E:\VMWare\Guests\Ubuntu 64-bit
+2025-03-03 14:51:09 - Found 3 .lck files/folders in E:\VMWare\Guests\Ubuntu 64-bit
+2025-03-03 14:51:09 - Moved: E:\VMWare\Guests\Ubuntu 64-bit\Moved-564def8f-dcf9-8e62-849b-9cdd1f995cd6.vmem.lck -> E:\VMWare\Guests\Ubuntu 64-bit\Old_Locks\Moved-564def8f-dcf9-8e62-849b-9cdd1f995cd6.vmem.lck
+2025-03-03 14:51:09 - Moved: E:\VMWare\Guests\Ubuntu 64-bit\Moved-Ubuntu 64-bit-4fa2b05e.vmem.lck -> E:\VMWare\Guests\Ubuntu 64-bit\Old_Locks\Moved-Ubuntu 64-bit-4fa2b05e.vmem.lck
+2025-03-03 14:51:09 - Moved: E:\VMWare\Guests\Ubuntu 64-bit\Moved-Ubuntu 64-bit.vmdk.lck -> E:\VMWare\Guests\Ubuntu 64-bit\Old_Locks\Moved-Ubuntu 64-bit.vmdk.lck
+2025-03-03 14:51:09 - Successfully stopped all VMware processes.
+2025-03-03 14:51:09 - Skipping disabled service: VMware NAT Service
+2025-03-03 14:51:09 - Restarted service: VmwareAutostartService

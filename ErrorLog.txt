@@ -1,0 +1,1 @@
+2025-03-03 14:42:55 - ERROR: Failed to restart VMware services: Service 'VMware NAT Service (VMware NAT Service)' cannot be started due to the following error: Cannot start service 'VMware NAT Service' on computer '.'.
